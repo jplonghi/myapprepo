@@ -1,1 +1,1 @@
-# myapprepo
+# Dummy template
